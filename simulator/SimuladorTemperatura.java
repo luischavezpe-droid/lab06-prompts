@@ -1,4 +1,4 @@
-package prompts.simulator;
+package simulator;
 import java.util.Random;
 
 public class SimuladorTemperatura {

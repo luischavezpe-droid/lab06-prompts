@@ -1,0 +1,18 @@
+2026.09.24 15:03:48 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+set. 24, 2026 3:03:49 P. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMACIÓN: Unsupported notification method: $/setTrace
+set. 24, 2026 3:03:49 P. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMACIÓN: Unsupported notification method: $/setTrace
+set. 24, 2026 3:03:49 P. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMACIÓN: Unsupported notification method: $/setTrace
+2026.09.24 15:03:49 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:03:49 WARN  no build tool detected in workspace 'C:\Users\Karim\lab06-prompts'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.09.24 15:03:49 WARN  Build server is not auto-connectable.
+2026.09.24 15:03:49 WARN  no build target for: C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java
+set. 24, 2026 3:03:49 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 5
+set. 24, 2026 3:03:49 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1
+2026.09.24 15:03:49 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:03:49 WARN  Running javac-semanticdb failed for file:///C:/Users/Karim/lab06-prompts/simulator/SimuladorTemperatura.java. Output:
+
