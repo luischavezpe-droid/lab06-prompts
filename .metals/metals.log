@@ -16,3 +16,272 @@ ADVERTENCIA: Unmatched cancel notification for request id 1
 2026.09.24 15:03:49 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
 2026.09.24 15:03:49 WARN  Running javac-semanticdb failed for file:///C:/Users/Karim/lab06-prompts/simulator/SimuladorTemperatura.java. Output:
 
+2026.09.24 15:04:24 WARN  no build target for: C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java
+2026.09.24 15:04:24 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:04:26 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:04:26 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:04:26 WARN  Running javac-semanticdb failed for file:///C:/Users/Karim/lab06-prompts/simulator/SimuladorTemperatura.java. Output:
+
+2026.09.24 15:04:27 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:04:27 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+set. 24, 2026 3:04:27 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 29
+2026.09.24 15:04:36 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:04:36 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:04:37 WARN  Running javac-semanticdb failed for file:///C:/Users/Karim/lab06-prompts/simulator/SimuladorTemperatura.java. Output:
+
+2026.09.24 15:04:37 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:04:42 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:04:42 WARN  Running javac-semanticdb failed for file:///C:/Users/Karim/lab06-prompts/simulator/SimuladorTemperatura.java. Output:
+
+2026.09.24 15:04:42 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:04:44 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:04:44 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:04:45 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:04:44 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:04:45 INFO  Created report: Optional[file:///C:/Users/Karim/lab06-prompts/simulator/SimuladorTemperatura.java]
+2026.09.24 15:04:45 INFO  empty definition using pc, found symbol in pc: java/lang/System# (full report at: "C:\Users\Karim\lab06-prompts\.metals\.reports\metals-full\2026-09-24\r_empty-definition_15-04-45-650.md")
+2026.09.24 15:04:45 WARN  Running javac-semanticdb failed for file:///C:/Users/Karim/lab06-prompts/simulator/SimuladorTemperatura.java. Output:
+
+2026.09.24 15:04:45 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:04:46 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:04:46 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:04:47 WARN  Running javac-semanticdb failed for file:///C:/Users/Karim/lab06-prompts/simulator/SimuladorTemperatura.java. Output:
+
+2026.09.24 15:04:47 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:04:48 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:04:48 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:04:48 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:04:48 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:04:48 WARN  Running javac-semanticdb failed for file:///C:/Users/Karim/lab06-prompts/simulator/SimuladorTemperatura.java. Output:
+
+2026.09.24 15:04:48 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:04:49 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:04:48 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:04:49 WARN  Running javac-semanticdb failed for file:///C:/Users/Karim/lab06-prompts/simulator/SimuladorTemperatura.java. Output:
+
+2026.09.24 15:04:49 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:04:52 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:04:52 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:04:52 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:04:52 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:04:53 WARN  Running javac-semanticdb failed for file:///C:/Users/Karim/lab06-prompts/simulator/SimuladorTemperatura.java. Output:
+
+2026.09.24 15:04:53 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:04:57 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:04:59 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:05:00 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:05:00 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:05:05 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:05:06 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:05:06 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:05:06 WARN  Running javac-semanticdb failed for file:///C:/Users/Karim/lab06-prompts/simulator/SimuladorTemperatura.java. Output:
+
+2026.09.24 15:05:06 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:05:06 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:05:08 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:05:08 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:05:08 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:05:08 WARN  Running javac-semanticdb failed for file:///C:/Users/Karim/lab06-prompts/simulator/SimuladorTemperatura.java. Output:
+
+2026.09.24 15:05:08 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:05:09 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:05:09 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:05:10 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:05:10 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:05:10 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+set. 24, 2026 3:05:11 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 126
+2026.09.24 15:05:10 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:05:11 WARN  Running javac-semanticdb failed for file:///C:/Users/Karim/lab06-prompts/simulator/SimuladorTemperatura.java. Output:
+
+2026.09.24 15:05:11 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:05:11 WARN  Running javac-semanticdb failed for file:///C:/Users/Karim/lab06-prompts/simulator/SimuladorTemperatura.java. Output:
+
+2026.09.24 15:05:14 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:05:14 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:05:14 WARN  Running javac-semanticdb failed for file:///C:/Users/Karim/lab06-prompts/simulator/SimuladorTemperatura.java. Output:
+
+2026.09.24 15:05:14 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:05:14 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:05:14 WARN  Running javac-semanticdb failed for file:///C:/Users/Karim/lab06-prompts/simulator/SimuladorTemperatura.java. Output:
+
+2026.09.24 15:05:14 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:05:15 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:05:15 WARN  Running javac-semanticdb failed for file:///C:/Users/Karim/lab06-prompts/simulator/SimuladorTemperatura.java. Output:
+
+2026.09.24 15:05:15 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:05:18 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:05:19 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:05:21 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:05:21 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:05:23 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:05:38 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:05:44 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:05:46 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:05:46 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:05:47 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:05:58 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:05:58 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:05:58 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:05:59 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:05:59 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:05:59 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:06:00 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:06:00 WARN  Running javac-semanticdb failed for file:///C:/Users/Karim/lab06-prompts/simulator/SimuladorTemperatura.java. Output:
+
+2026.09.24 15:05:59 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:06:38 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:06:44 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:07:13 WARN  no build target for: C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java
+2026.09.24 15:07:13 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:07:13 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:07:29 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:08:16 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:12:16 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:12:22 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:12:24 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:12:25 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:12:36 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:12:36 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:12:36 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:12:37 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:12:37 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:13:03 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:13:15 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:13:15 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:13:16 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:13:16 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:13:16 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:13:16 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:13:17 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:13:17 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:13:17 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:13:20 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:13:21 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:13:21 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:13:21 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:13:21 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:13:22 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:13:22 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:14:19 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:14:19 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:15:04 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:15:04 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:15:04 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:15:05 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:15:05 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:15:06 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:15:06 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:15:05 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:15:05 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:15:06 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:15:06 WARN  Running javac-semanticdb failed for file:///C:/Users/Karim/lab06-prompts/simulator/SimuladorTemperatura.java. Output:
+
+2026.09.24 15:15:06 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:15:06 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:15:06 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:15:06 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:15:06 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:15:06 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:15:08 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:15:08 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:15:08 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:15:08 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:15:08 WARN  Running javac-semanticdb failed for file:///C:/Users/Karim/lab06-prompts/simulator/SimuladorTemperatura.java. Output:
+
+2026.09.24 15:15:08 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:15:08 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:15:09 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:15:27 WARN  no build target for: C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java
+2026.09.24 15:15:27 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:15:28 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:59:50 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:59:50 WARN  no build target for: C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java
+2026.09.24 15:59:50 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:59:50 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:59:50 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:59:50 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:59:51 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:59:51 WARN  no build target for: C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java
+2026.09.24 15:59:51 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:59:51 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:59:51 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+set. 24, 2026 3:59:52 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+ADVERTENCIA: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "class:/c%3A/Users/Karim/lab06-prompts/simulator/SimuladorTemperatura.class"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "class" not installed
+	at java.base/java.nio.file.Path.of(Path.java:210)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:149)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:221)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:787)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:784)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:810)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:42)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:225)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:192)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+set. 24, 2026 3:59:52 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+ADVERTENCIA: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "class:/c%3A/Users/Karim/lab06-prompts/simulator/SimuladorTemperatura.class"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "class" not installed
+	at java.base/java.nio.file.Path.of(Path.java:210)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:149)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:221)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:787)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:784)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:810)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:42)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:225)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:192)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+2026.09.24 15:59:53 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:59:53 WARN  no build target for: C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java
+2026.09.24 15:59:53 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:59:53 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:59:53 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 15:59:53 INFO  no build target found for C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 16:06:32 INFO  no build target found for c:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 16:06:32 INFO  no build target found for c:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 16:06:32 WARN  no build target for: C:\Users\Karim\lab06-prompts\prompts\simulator\SimuladorTemperatura.java
+2026.09.24 16:06:37 WARN  no build target for: C:\Users\Karim\lab06-prompts\prompts\simulator\SimuladorTemperatura.java
+2026.09.24 16:08:24 INFO  no build target found for C:\Users\Karim\lab06-prompts\prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 16:08:24 INFO  no build target found for C:\Users\Karim\lab06-prompts\prompts\simulator\SimuladorTemperatura.java. Using fallback presentation compiler.
+2026.09.24 16:08:24 WARN  no build target for: C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java
+2026.09.24 16:14:27 WARN  no build target for: C:\Users\Karim\lab06-prompts\simulator\SimuladorTemperatura.java
